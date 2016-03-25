@@ -1,7 +1,7 @@
 {
   "name": "unique-type",
   "version": "1.0.0",
-  "description": "",
+  "description": "Takes a mostly unique string and ensures that it is globally unique.",
   "homepage": "https://github.com/convoyinc/unique-type",
   "bugs": "https://github.com/convoyinc/unique-type/issues",
   "license": "Apache-2.0",
