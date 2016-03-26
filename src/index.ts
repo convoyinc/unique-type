@@ -15,4 +15,5 @@ function uniqueType(type:string):string {
   global.__unique_type_registry__.add(type);
   return type;
 }
+module uniqueType {} // Allow import * as uniqueType from 'unique-type';
 export = uniqueType;
